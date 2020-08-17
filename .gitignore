@@ -1,0 +1,7 @@
+### for IntelliJ
+.idea
+*.iml
+
+### phar
+*.phar
+*.cache
